@@ -28,3 +28,21 @@ Le damos a revisar y crear y comprobamos que se haya desplegado bien volviendo a
 Una vez dentro de nuestra Function App seleccionamos Functions y añadimos una nueva:
 
 ![](img/img3.png)
+
+Dentro de las opciones de desarrollador vamos a **CODE+TEST** y luego obtenemos el link para la función con la **KEY DEFAULT**:
+
+![](img/img5.png)
+
+Copiamos y pegamos la URL en una pestaña nueva del navegador
+
+![](img/img6.png)
+
+Hay varias maneras de modificar el texto de esta solicitud, una de ellas es añadir al final del link &name="nombre" 
+
+Dando como respuesta lo siguiente:
+
+![](img/img7.png)
+
+También se puede modificar el código en el panel de code + test:
+
+![](img/img8.png)
